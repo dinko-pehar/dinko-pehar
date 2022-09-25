@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinko</h1>
-<h3 align="center">A software developer</h3>
+<h3 align="center">Software Developer Specialised in backend development and build management.</h3>
 
 - 👨‍💻 My web corner is at [pehar.dev](https://pehar.dev)
 
