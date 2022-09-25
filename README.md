@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dinko</h1>
 <h3 align="center">A software developer</h3>
 
-- 👨‍💻 My web corner is at [https://personal-blog-cvp.pages.dev](https://personal-blog-cvp.pages.dev)
+- 👨‍💻 My web corner is at [pehar.dev](https://pehar.dev)
 
-- 📫 Reach me at **pehar@dinko.com**
+- 📫 Reach me at **pehar@dinko.dev**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
