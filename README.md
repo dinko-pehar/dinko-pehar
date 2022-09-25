@@ -7,6 +7,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Moving to Bitwarden from LastPass with style](https://ade81551.personal-blog-cvp.pages.dev/blog/moving-to-bitwarden-from-lastpass-in-style/)
+- [Linux utility &amp; productivity tools](https://ade81551.personal-blog-cvp.pages.dev/blog/linux-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
