@@ -2,10 +2,8 @@
 
 <h3 align="center">Software Developer Specialised in backend development and build management.</h3>
 
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [From ZSH to Fish](/blog/from-zsh-to-fish/)
-- [Moving to Bitwarden from LastPass with style](/blog/moving-to-bitwarden-from-lastpass-in-style/)
-- [Linux utility &amp; productivity tools](/blog/linux-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
