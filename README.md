@@ -2,13 +2,6 @@
 
 <h3 align="center">Software Developer Specialised in backend development and build management.</h3>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [From ZSH to Fish](/blog/from-zsh-to-fish/)
-- [Moving to Bitwarden from LastPass with style](/blog/moving-to-bitwarden-from-lastpass-in-style/)
-- [Linux utility &amp; productivity tools](/blog/linux-tools/)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dinko-pehar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinko-pehar" height="30" width="40" /></a>
