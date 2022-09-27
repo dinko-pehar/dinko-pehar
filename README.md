@@ -7,6 +7,7 @@
 - [From ZSH to Fish](/blog/from-zsh-to-fish/)
 - [Moving to Bitwarden from LastPass with style](/blog/moving-to-bitwarden-from-lastpass-in-style/)
 - [Linux utility &amp; productivity tools](/blog/linux-tools/)
+- [About](/about/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
